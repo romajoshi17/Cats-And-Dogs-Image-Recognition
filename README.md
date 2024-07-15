@@ -1,4 +1,4 @@
-# Prodigy_ML_03
+# Classifying Images of Cats and Dogs
 Implementing a Support Vector Machine (SVM) model to classify images of cats and dogs. 
 
 The dataset is taken from: https://www.kaggle.com/c/dogs-vs-cats/data. The training dataset contains 25,000 labelled images of cats and dogs. 
